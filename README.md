@@ -12,9 +12,9 @@ The project aims to convert raw sales data into meaningful business insights thr
 - Monthly revenue trends  
 
 ## 📁 Files Included
-- **FNP_Dashboard.xlsx** – Interactive Excel dashboard  
-- **FNP_Dashboard.pdf** – PDF version of the report/dashboard  
-- **README.md** – Project documentation  
+- [Download Excel Dashboard](https://github.com/Arijit0309/Fnp-sales-analytics-project/blob/main/FNP%20Analyzed.xlsx)
+- [Dashboard Screenshot](https://github.com/Arijit0309/Fnp-sales-analytics-project/blob/main/dashboard%20fnp.jpg)
+
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel  
